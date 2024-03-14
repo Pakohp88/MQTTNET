@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuBV5ckVQX2ScgBektGBgtK+xcIOXwxXyzt3DiiZ+59pxA6Y3HT3EKuHFMBScy9RxGUSST/D7mhhB3Up2mYHkg==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pakohp\\.nuget\\packages\\hivemqtt\\0.10.3\\hivemqtt.0.10.3.nupkg.sha512",
+    "C:\\Users\\Pakohp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Pakohp\\.nuget\\packages\\nlog\\5.2.3\\nlog.5.2.3.nupkg.sha512",
+    "C:\\Users\\Pakohp\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
